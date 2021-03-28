@@ -17,5 +17,7 @@ $ pip3 install -r requirements.txt
 
 ## Run
 
-
+```shell
+$ python entrypoint.py
+```
 
